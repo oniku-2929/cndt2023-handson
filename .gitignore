@@ -1,0 +1,5 @@
+setup/terraform/terraform.tfvars
+setup/terraform/.ssh
+setup/terraform/.terraform
+setup/terraform/terraform.tfstate
+setup/terraform/terraform.tfstate.backup
